@@ -1,0 +1,15 @@
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/bin/Debug/net7.0/ob_cs_ejercicio1
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/bin/Debug/net7.0/ob_cs_ejercicio1.deps.json
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/bin/Debug/net7.0/ob_cs_ejercicio1.runtimeconfig.json
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/bin/Debug/net7.0/ob_cs_ejercicio1.dll
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/bin/Debug/net7.0/ob_cs_ejercicio1.pdb
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.csproj.AssemblyReference.cache
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.AssemblyInfoInputs.cache
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.AssemblyInfo.cs
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.csproj.CoreCompileInputs.cache
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.dll
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/refint/ob_cs_ejercicio1.dll
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.pdb
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ob_cs_ejercicio1.genruntimeconfig.cache
+/Users/eltonluizjitiako/Documents/OB_CS/ob_cs_ejercicio1/ob_cs_ejercicio1/obj/Debug/net7.0/ref/ob_cs_ejercicio1.dll
